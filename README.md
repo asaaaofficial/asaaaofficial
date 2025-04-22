@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-stack Developer
 - 🌱 I’m from in Indonesian
 - 💞️ I’m looking to collaborate on E-mail
-- 📫 E-mail: asaaa@gmail.com
+- 📫 E-mail: asaaaofficial@gmail.com
 - 😄 Pronouns: Full name is Aura Shauma Amatullah
 - ⚡ Fun fact: This is my repository and my portfolio
 
