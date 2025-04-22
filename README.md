@@ -3,8 +3,8 @@
 - 🌱 I’m from in Indonesian
 - 💞️ I’m looking to collaborate on E-mail
 - 📫 E-mail: asaaa@gmail.com
-- 😄 Pronouns: My name is Aura Shauma
-- ⚡ Fun fact: This is my repository
+- 😄 Pronouns: Full name is Aura Shauma Amatullah
+- ⚡ Fun fact: This is my repository and my portfolio
 
 <!---
 asaaaofficial/asaaaofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
