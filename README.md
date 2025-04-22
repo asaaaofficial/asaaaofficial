@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asaaaofficial
+- 👋 Hi, I’m asaaaofficial
 - 👀 I’m interested in Full-stack Developer
 - 🌱 I’m from in Indonesian
 - 💞️ I’m looking to collaborate on E-mail
